@@ -1,0 +1,51 @@
+.title {
+  width: 100%;
+  padding: 8px 16px;
+  text-align: center;
+  background-color: #6e7e85;
+  color: #fff;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+.card {
+  width: 300px;
+  border-radius: 10px !important;
+  background: #fff;
+  border-color: #f3f3f3;
+}
+
+.borderRadius6 {
+  border-radius: 6px;
+}
+
+.imageContainer {
+  margin: 16px 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.image {
+  max-width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.width60 {
+  width: 60%;
+}
+
+.downloadBtn {
+  width: 30%;
+  border-radius: 6px;
+  background-color: #034078;
+  border: 1px solid #034078;
+  border-color: #034078;
+  margin: 0 12px;
+  padding: 6px 0;
+  cursor: pointer;
+}
+
+.downloadIcon {
+  color: #fff;
+  cursor: pointer;
+}
