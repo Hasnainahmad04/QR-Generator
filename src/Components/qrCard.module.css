@@ -35,12 +35,11 @@
 }
 
 .downloadBtn {
-  width: 30%;
+  width: 35%;
   border-radius: 6px;
-  background-color: #034078;
-  border: 1px solid #034078;
-  border-color: #034078;
-  margin: 0 12px;
+  background-color: #6e7e85;
+  border: 1px solid #6e7e85;
+  margin-left: 12px;
   padding: 6px 0;
   cursor: pointer;
 }
